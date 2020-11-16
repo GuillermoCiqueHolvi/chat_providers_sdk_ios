@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ChatProvidersSDK",
-            url: "https://zendesk.jfrog.io/zendesk/libs-releases-local/ios/zendesk/5.2.4/ChatProvidersSDK/2.9.0/universal/ChatProvidersSDK.zip",
-            checksum: "22cc034f47536b8a5fefd54fbd3667ee1c876d1cea3297d6c3e9790b14978d5b"
+            url: "https://github.com/GuillermoCiqueHolvi/chat_providers_sdk_ios/archive/2.9.1.zip",
+            checksum: "78e16d244a1d02747fc879a2f9faf3cec2feea2d2bc230db1902cf8e3065b26e"
         )
     ]
 )
